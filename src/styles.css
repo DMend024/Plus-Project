@@ -41,3 +41,8 @@ i {
   font-size: 16px;
   color: rgb(206, 46, 206);
 }
+h6 {
+  font-weight: 100px;
+  padding: 30px 0px;
+  text-align: center;
+}
